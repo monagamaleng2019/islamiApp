@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_item_quraan"
+        android:icon="@drawable/ic_quraan_icon"
+        android:title="@string/quraan" />
+    <item
+        android:id="@+id/menu_item_tasbeeh"
+        android:icon="@drawable/ic_seb7a"
+        android:title="@string/tasbeeh" />
+    <item
+        android:id="@+id/menu_item_hadeeth"
+        android:icon="@drawable/ic_quraan_icon"
+        android:title="@string/hadeeth" />
+
+</menu>
